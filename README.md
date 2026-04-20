@@ -300,7 +300,7 @@ academic-mcp-server/
 ├── run_server.py        # Startup script
 ├── test_server.py       # Test script
 ├── README.md            # Documentation
-├─�� LICENSE            # MIT License
+├── LICENSE            # MIT License
 ├── .gitignore          # Git ignore rules
 ├── Cache/              # Local cache (auto-created)
 │   └── cache.db        # SQLite cache database
