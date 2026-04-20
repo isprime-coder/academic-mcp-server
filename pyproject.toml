@@ -1,0 +1,20 @@
+[project]
+name = "academic-mcp-server"
+version = "1.0.0"
+description = "Academic MCP Server for Claude Code CLI - Search papers, verify citations, read docs"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+    "httpx>=0.27.0",
+    "arxiv>=2.1.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+academic-mcp = "academic_mcp.server:main"
