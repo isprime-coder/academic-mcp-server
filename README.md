@@ -37,8 +37,6 @@ Mainly used for **paper writing, literature review, and academic research** to q
 ## Platform Support
 
 - ✅ Windows 10/11
-- ✅ macOS
-- ✅ Linux
 
 The project **can be placed anywhere** since it uses relative paths for the cache directory. Just update the path in your Claude config file when moving the project.
 
