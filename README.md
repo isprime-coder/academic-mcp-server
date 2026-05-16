@@ -2,8 +2,6 @@
 
 Academic research assistant for Claude Code CLI - provides paper search, DOI verification, citation analysis, BibTeX generation, and GitHub integration.
 
-> ⚠️ **This is my first open source project**, there may be bugs and some features may not work perfectly. If you find any issues, feel free to submit an Issue or PR!
-
 ## What is Academic MCP Server?
 
 This is an **academic research assistant** that helps you:
